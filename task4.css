@@ -1,0 +1,39 @@
+
+
+.container{
+    width: 800px;
+    height: 500px;
+    margin: 15px;
+}
+
+.a,.b,.c,.d{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    width: 170px;
+    height: 120px;
+    display: inline-block;
+}
+.e,.f,.g,.h{
+    
+    position: relative;
+   margin: 0px;
+  padding: 0px;
+    width: 170px;
+    height: 150px;
+    display: inline-block;
+
+}
+img{
+
+    width: 100%;
+}
+p{
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    font-size: 12px;
+   background-color: black;
+    color: white;
+    
+}
